@@ -1,5 +1,4 @@
-//function createMap(Earthquakes) {
-    
+   
     //Create the map object 
     var map = L.map("map", {
         center: [40.7587, -111.8761],
@@ -75,9 +74,3 @@
 
         legend.addTo(map);
   });
-
-     
-
-
-
-//}
